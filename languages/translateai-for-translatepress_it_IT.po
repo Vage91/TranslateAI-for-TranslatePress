@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2026-03-14 21:02+0100\n"
+"PO-Revision-Date: 2026-03-14 21:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: translateai-for-translatepress.php\n"
+
+#: translateai-for-translatepress.php:761
+msgid "TranslateAI for TranslatePress"
+msgstr ""
+
+#: translateai-for-translatepress.php:762
+msgid "TranslateAI"
+msgstr ""
+
+#: translateai-for-translatepress.php:855
+msgid "Invalid or unauthorized table."
+msgstr "Tabella non valida o non autorizzata"
+
+#: translateai-for-translatepress.php:1113
+msgid "Save Configuration"
+msgstr "Salva Configurazione"
+
+#: translateai-for-translatepress.php:1238
+msgid "skipped"
+msgstr "saltato"
+
+#: translateai-for-translatepress.php:1245
+#: translateai-for-translatepress.php:1439
+msgid "Original"
+msgstr "Originale"
+
+#: translateai-for-translatepress.php:1245
+msgid "Last attempted translation"
+msgstr "Ultimo tentativo di traduzione"
+
+#: translateai-for-translatepress.php:1245
+msgid "Reason"
+msgstr "Motivo"
+
+#: translateai-for-translatepress.php:1310
+msgid "Translator: connection error"
+msgstr "Traduttore: errore di connessione"
+
+#: translateai-for-translatepress.php:1315
+msgid "Connection OK"
+msgstr "Connessione OK"
+
+#: translateai-for-translatepress.php:1319
+msgid "Testing Judge…"
+msgstr "Verifico il Giudice..."
+
+#: translateai-for-translatepress.php:1326
+#: translateai-for-translatepress.php:1327
+#: translateai-for-translatepress.php:1329
+msgid "Translator OK"
+msgstr "Traduttore OK"
+
+#: translateai-for-translatepress.php:1326
+msgid "Judge OK"
+msgstr "Giudice OK"
+
+#: translateai-for-translatepress.php:1327
+msgid "Judge: connection error"
+msgstr "Giudice: errore di connessione"
+
+#: translateai-for-translatepress.php:1329
+msgid "Judge: request failed"
+msgstr "Giudice: richiesta fallita"
+
+#: translateai-for-translatepress.php:1332
+msgid "Translator: request failed"
+msgstr "Traduttore: richiesta fallita"
+
+#: translateai-for-translatepress.php:1343
+msgid "Processing started…"
+msgstr "Processo avviato..."
+
+#: translateai-for-translatepress.php:1351
+msgid "Processing stopped by user."
+msgstr "Processo interrotto dall'utente."
+
+#: translateai-for-translatepress.php:1363
+msgid "Invalid response – retrying in 3s…"
+msgstr "Risposta non valida – riprovo tra 3s..."
+
+#: translateai-for-translatepress.php:1369
+msgid "Translation completed."
+msgstr "Traduzione completata."
+
+#: translateai-for-translatepress.php:1395
+msgid "Network error – retrying in 5s…"
+msgstr "Errore di rete – riprovo tra 5s..."
+
+#: translateai-for-translatepress.php:1426
+msgid "Approved"
+msgstr "Approvato"
+
+#: translateai-for-translatepress.php:1426
+msgid "Rejected"
+msgstr "Rifiutato"
+
+#: translateai-for-translatepress.php:1441
+msgid "Translation"
+msgstr "Traduzione"
+
+#: translateai-for-translatepress.php:1446
+msgid "Reason:"
+msgstr "Motivo:"
+
+#: translateai-for-translatepress.php:1454
+msgid "Judge:"
+msgstr "Giudice:"
