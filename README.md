@@ -18,6 +18,11 @@ TranslateAI for TranslatePress automates the translation of your TranslatePress 
 * **Failed strings export**: Download a CSV of all strings that failed translation during a session
 * **Real-time progress**: Live counters, activity log and agent review cards update as translations are processed
 
+**Gallery**
+<img width="1246" height="1220" alt="Immagine 2026-03-22 114654" src="https://github.com/user-attachments/assets/0f9265ed-dc1b-424c-ad3e-f77b1cbce879" />
+<img width="1252" height="742" alt="Immagine 2026-03-22 114456" src="https://github.com/user-attachments/assets/ce30da2e-aecd-4ae4-a467-01079b230717" />
+
+
 **Requirements:**
 
 * [TranslatePress](https://translatepress.com/) plugin (free or business) must be installed and active
